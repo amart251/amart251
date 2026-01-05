@@ -41,16 +41,16 @@
         <strong>Did you know I have an actual website?</strong>
         <p>
         <br />
-        <img alt="Visit my website!" height="100" src="images/smiley.gif">
+        <img alt="Visit my website!" height="190" src="images/smiley.gif">
         </a>
         </p>
         </td>
         <td align="center">
-        <a href="https://adrim.art">
+        <!-- <a href=" - "> -->
         <strong>Won't you sign my guest book?</strong>
         <p>
             <br />
-            <img alt="Under construction" height="100" src="images/wip.gif">
+            <img alt="Under construction" height="" src="images/wip.gif">
             </a>
         </p>
         </td>
@@ -62,7 +62,7 @@
         <td colspan="2" align="center">
         <p>
             <br />
-            <img alt="Under construction" height="100" src="images/wip.gif">
+            <img alt="Under construction" height="" src="images/wip.gif">
             </a>
         </p>
     </tr>
