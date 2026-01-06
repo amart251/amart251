@@ -92,3 +92,7 @@
     <img alt="notepad" height="40" src="images/notepad.gif">
     <img alt="f12002" height="40" src="images/f1cars.gif">
 </p>
+
+<p align="center">
+    <img alt="f12002" height="50" src="images/sitebad.gif">
+<p>
